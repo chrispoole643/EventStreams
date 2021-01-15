@@ -100,7 +100,7 @@ To access other {{site.data.keyword.messagehub}} samples, including samples for 
    The sample application is stored in Github. Clone the `event-streams-samples` repository by running the clone command from the command line. 
 
    ```
-    git clone https://github.com/ibm-messaging/event-streams-samples.git
+   git clone https://github.com/ibm-messaging/event-streams-samples.git
    ```
    {: codeblock}
 
